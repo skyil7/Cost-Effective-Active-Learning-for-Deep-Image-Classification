@@ -1,0 +1,6 @@
+__pycache__/*
+data/*
+model/*
+CEAL_IMU.ipynb
+IMU_feature_extraction.ipynb
+result_*
